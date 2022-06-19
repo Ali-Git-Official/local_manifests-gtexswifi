@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <project name="LineageOS/android_hardware_samsung" path="hardware/samsung" remote="github" revision="lineage-16.0" />
+  <project name="name="underscoremone/android_device_samsung_gtexswifi" path="device/samsung/gtexswifi" remote="github" revision="lineage-16.0" />
+  <project name="underscoremone/android_kernel_samsung_gtexswifi" path="kernel/samsung/gtexswifi" remote="github" revision="lineage-16.0" />
+  <project name="underscoremone/proprietary_vendor_samsung_gtexswifi" path="vendor/samsung/gtexswifi" remote="github" revision="lineage-16.0" />
+</manifest>
+
